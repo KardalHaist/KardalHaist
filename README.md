@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Kardal%20Haist&fontSize=60&fontColor=ffffff&desc=Electrical%20Engineering%20%7C%20Automation&descSize=20&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Kardal%20Haist&fontSize=60&fontColor=ffffff&desc=Electrical%20Engineering%20%7C%20Florida%20Institute%20of%20Technology&descSize=20&descAlignY=70" width="100%" />
 </p>
 
 
