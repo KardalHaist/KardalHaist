@@ -20,7 +20,7 @@ I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on
 
 ---
 
-### GitHub Contribution Snake
+### Snake :)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KardalHaist/KardalHaist/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KardalHaist/KardalHaist/output/github-contribution-grid-snake.svg">
