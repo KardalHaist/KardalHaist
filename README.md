@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?bannerText=Kardal+Haist&width=2200&height=400" alt="Kardal Haist Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kardal%20Haist&fontSize=70&animation=scaleIn" width="100%" />
 </p>
 
 # Kardal Haist
