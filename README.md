@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kardal%20Haist&fontSize=70&animation=scaleIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Kardal%20Haist&fontSize=60&fontColor=ffffff&desc=Electrical%20Engineering%20%7C%20Automation&descSize=20&descAlignY=70" width="100%" />
 </p>
-
 # Kardal Haist
 
 I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and the implementation of autonomous AI workflows. Stay tuned for projects to come...
