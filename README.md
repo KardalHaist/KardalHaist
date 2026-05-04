@@ -4,7 +4,7 @@
 
 # Kardal Haist
 
-I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and the implementation of autonomous AI workflows.
+I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and the implementation of autonomous AI workflows. Stay tuned for projects to come...
 
 ### Project Portfolio & Research
 * **Robotics:** I am currently developing an open-source, cost-efficient window cleaning robot utilizing vacuum-adhesion technology. This project focuses on democratizing autonomous maintenance hardware through modular design and low-cost component integration.
