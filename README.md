@@ -4,14 +4,14 @@
 
 # Kardal Haist
 
-I am an Electrical Engineering student at Florida Tech (FIT). My work sits at the intersection of hardware and automation, specifically focused on telecom, FPV systems, and AI-driven workflows.
+I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and the implementation of autonomous AI workflows.
 
-### Projects & Focus
-* **Robotics:** I am currently building an open-source, low-cost window cleaning suction robot. The goal is to make this technology accessible and easy to replicate.
-* **Automation:** I build and deploy AI workflows and agents, primarily using n8n to streamline complex tasks and data handling.
-* **FPV & Telecom:** I have a heavy interest in the FPV industry, specifically regarding drone automation and telecommunications infrastructure.
+### Project Portfolio & Research
+* **Robotics:** I am currently developing an open-source, cost-efficient window cleaning robot utilizing vacuum-adhesion technology. This project focuses on democratizing autonomous maintenance hardware through modular design and low-cost component integration.
+* **Automation & Orchestration:** I design and deploy sophisticated AI workflows and autonomous agents, leveraging n8n to architect scalable data-handling pipelines and streamline complex operational tasks.
+* **Telecommunications & FPV:** I am deeply involved in the FPV sector, focusing on the intersection of RF infrastructure, long-range telemetry, and drone flight-controller automation.
 
-### Tech Stack
+### Technical Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
