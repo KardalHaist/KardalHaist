@@ -3,7 +3,7 @@
 </p>
 
 
-I am an Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and Avionics. 
+I am an Honors Electrical Engineering student at Florida Tech (FIT). My work focuses on the synthesis of hardware and automation, with a specific emphasis on telecommunications, FPV systems, and Avionics. 
 
 ### Project Portfolio & Research
 * **UAVs & Avionics:**  I am an Honors Electrical Engineering student and active member of my university's drone engineering team, contributing to the avionics and propulsion subteam. My interests include flight electronics, embedded systems, UAV design, and the development of reliable aerospace technologies.
