@@ -8,7 +8,7 @@ I am an Honors Electrical Engineering student at Florida Tech (FIT). My work foc
 ### Project Portfolio & Research
 * **UAVs & Avionics:**  I am an Honors Electrical Engineering student and active member of my university's drone engineering team, contributing to the avionics and propulsion subteam. My interests include flight electronics, embedded systems, UAV design, and the development of reliable aerospace technologies.
 * **FPV & Remote Piloting** I am an avid FPV pilot and currently have a FAA Part 107 Remote Pilot Certificate. Outside of organized projects, I enjoy building, flying, and experimenting with FPV platforms while expanding my knowledge of flight-control systems, telemetry, and drone operations. I also compete in Simulated Races through the platform Liftoff. 
-
+* **MEP Work** I also have completed Cert Prep: Revit for Electrical Design Professional and completed a Revit electrical model of a two-story commercial building. I am working on the infamous infamous Snowdon Towers, using tutorials from Electric Rob and Beti Built as references. 
 ### Technical Stack
 
 <p align="left">
